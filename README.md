@@ -1,6 +1,7 @@
 # SIEM-in-Azure
 
 ### Tools Used
+- Azure Cloud for creating resource groups, creating workbooks, writing custom logs, and visualizing data
 - Security Information and Event Management (SIEM) system for log ingestion and analysis
 - Virtual Machine to open up a vulnerable environment for outside attackers target
 - Powershell for running scripts
