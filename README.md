@@ -8,7 +8,7 @@
 - Windows Event Viewer for monitoring logs 
 
 
-## Steps
+### Steps
 1. Virtual Machine Setup:
 Created a Virtual Machine (VM) in Azure, deliberately exposing it to the Internet by disabling its external and Windows firewalls. This involves making the VM vulnerable to pings and discovery from anywhere. This is NOT standard practice and is only being used to generate enough data to use for the world map.
 
