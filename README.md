@@ -1,11 +1,5 @@
 # SIEM-in-Azure
 
-### Skills Learned
-- SIEM concepts and practical application.
-- Analyzing logs and using them for testing.
-- Ability to generate and recognize attack signatures and patterns.
-- Visualizing data in Microsoft Sentinel
-
 ### Tools Used
 - Security Information and Event Management (SIEM) system for log ingestion and analysis
 - Virtual Machine to open up a vulnerable environment for outside attackers target
@@ -13,7 +7,7 @@
 - Windows Event Viewer for monitoring logs 
 
 
-## Process
+## Steps
 1. Virtual Machine Setup:
 Created a Virtual Machine (VM) in Azure, deliberately exposing it to the Internet by disabling its external and Windows firewalls. This involves making the VM vulnerable to pings and discovery from anywhere. This is NOT standard practice and is only being used to generate enough data to use for the world map.
 
