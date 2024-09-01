@@ -24,7 +24,7 @@ Employed PowerShell to run a script that extracts the IP address from a Windows 
 
 Virtual Machine:
 
-<img src="https://lh3.googleusercontent.com/pw/AP1GczOGDYmHQLrz9Olqz8oE1tlSFMH0-mYuBqQQ0yUbnUKCni28xwhtfatqN37zDVFb6m8FU8oF-jP59at3BbGc3CLtfYyD03l5NAslAAqu6tYzC6vtSEw=w2400" width="500" length="500"/>
+<img src="https://lh3.googleusercontent.com/pw/AP1GczM3U5zVga1u0dQJShBR4TbaSG_Tgj_Tk5iT-QCjlULLWk8f3VYfzff3EDenLfpQI7Qi8XvNJ26boxxfY82SLi1qpBypqnfXYVkv_lZDVGGvS3Spp6Y=w2400" width="500" length="500"/>
 
 The plotted attack above shows on this instance of the VM, there seemed to have been a Brute Force attack from somewhere in Ukraine which produced most of the attacks as well as other attacks all from around the country of Ukraine. There are also 3 purposely failed login 
 attempts recorded from my location in the US as well. 
