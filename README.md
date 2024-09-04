@@ -3,7 +3,7 @@
 ### Tools Used
 - Azure Cloud for creating resource groups, creating workbooks, writing custom logs, and visualizing data
 - Security Information and Event Management (SIEM) system for log ingestion and analysis
-- Virtual Machine to open up a vulnerable environment for outside attackers target
+- Virtual Machine to create a vulnerable environment that is an easy target for attackers
 - Powershell for running scripts
 - Windows Event Viewer for monitoring logs 
 
