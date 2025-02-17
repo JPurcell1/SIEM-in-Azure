@@ -33,4 +33,4 @@ attempts recorded from my location in the US as well.
 Attack Logs Example:
 
 <img src="https://lh3.googleusercontent.com/pw/AP1GczN7uds7c0UY5dWlzKtk1lX1_DGOUCOZ05-CCp5uhy8KdPT__NyNjlVLT6dmxGK1U41K56343w9v7tB7MYwPjjlZ1aTdN9vcy5UIhDokqlA52XVDD2M=w2400" width="700" length="1200"/>
-Logs of attackers unsuccessfully trying to access the VM
+Logs of attackers trying to access the VM
